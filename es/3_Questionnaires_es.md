@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
+<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
 
 # Paso 2 de 2: Cuestionario inicial y subida de datos
 
@@ -6,7 +6,7 @@ Por favor, asegúreses de tener listo su archivo de datos, de haber revisado sus
 
 Una vez listo, complete el cuestionario que sigue y suba su archivo.
 
-<a href="https://forms.gle/pnxMhMZ9pinqr7349" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
+<a href="https://forms.gle/NxugJ9rrrrhqbmXJ9" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
 
 ### ¡Y ya ha terminado!
 #### Realmente apreciamos su esfuerzo para ayudarnos en nuestro proyecto de investigación y esperamos que no le haya tomado demasiado tiempo.
