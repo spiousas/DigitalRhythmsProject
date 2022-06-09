@@ -6,7 +6,7 @@ Por favor, asegúreses de tener listo su archivo de datos, de haber revisado sus
 
 Una vez listo, complete el cuestionario que sigue y suba su archivo.
 
-<a href="https://forms.gle/NxugJ9rrrrhqbmXJ9" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
+<a href="https://forms.gle/LjSfxWcwEN7uCEpf8" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
 
 ### ¡Y ya ha terminado!
 #### Realmente apreciamos su esfuerzo para ayudarnos en nuestro proyecto de investigación y esperamos que no le haya tomado demasiado tiempo.

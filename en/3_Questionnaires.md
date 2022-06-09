@@ -6,7 +6,7 @@ Please make sure you have correctly obtained your data file, and that you have a
 
 Once you are ready, fill out the following questionnaire and upload your file.
 
-<a href="https://forms.gle/8AAAxAHvfn1WU9rX6" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
+<a href="https://forms.gle/qJhLwsKurTYNYxWF9" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
 
 ### And you're done!
 #### We truly appreciate your effort to help us in our research and hope that it did not take too much of your time.
