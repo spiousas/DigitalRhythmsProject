@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/en/2_android.html">Read in English</a> 🇺🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/2_android.html">Read in English</a> 🇺🇸 </div>
 
 # Paso 1 de 2: Obteniendo los datos
 
@@ -10,7 +10,7 @@ El primer paso es hacer clic en el enlace aquí abajo para ir al servicio  Takeo
 
 ### <a href="https://takeout.google.com" target="_blank"> takeout.google.com </a>
 
-**En caso de que tengas tu cuenta de Google configurada en inglés podés seguir este tutorial en inglés [aquí](https://github.com/spiousas/DigitalRhythmsProject/en/2_android).**
+**En caso de que tengas tu cuenta de Google configurada en inglés podés seguir este tutorial en inglés [aquí](https://spiousas.github.io/DigitalRhythmsProject/en/2_android).**
 
 Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en su teléfono Android.
 
@@ -74,7 +74,7 @@ Le recomendamos que abra este archivo en su computadora y lo revise, si así lo 
 
 Una vez que se sienta cómodo con compartir este archivo con nosotros, haga clic en el botón más abajo.
 
-[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://github.com/spiousas/DigitalRhythmsProject/es/3_Questionnaires_es)
+[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://spiousas.github.io/DigitalRhythmsProject/es/3_Questionnaires_es)
 
 <hr>
 
@@ -84,4 +84,4 @@ Sin embargo, si todavía tiene dudas, le ofrecemos la opción de generar un nuev
 
 Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, haga clic en el botón más abajo.
 
-[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://github.com/spiousas/DigitalRhythmsProject/es/3_Questionnaires_es)
+[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://spiousas.github.io/DigitalRhythmsProject/es/3_Questionnaires_es)

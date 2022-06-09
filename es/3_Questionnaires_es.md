@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/en/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
 
 # Paso 2 de 2: Cuestionario inicial y subida de datos
 

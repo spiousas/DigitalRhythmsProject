@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/es">Leer en español</a> 🇪🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/es">Leer en español</a> 🇪🇸 </div>
 
 <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
 
@@ -19,7 +19,7 @@ Don't hesitate to share your data even if you feel you don't use your phone enou
 
 When you are ready to help with some Android timestamps data, click the button below!
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://github.com/spiousas/DigitalRhythmsProject/en/1_android_landing_page)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://spiousas.github.io/DigitalRhythmsProject/en/1_android_landing_page)
 
 <hr>
 

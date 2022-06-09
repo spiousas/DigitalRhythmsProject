@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/es/1_android_landing_page_es.html">Leer en español</a> 🇪🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/es/1_android_landing_page_es.html">Leer en español</a> 🇪🇸 </div>
 
 # Before you start
 
@@ -20,4 +20,4 @@ It takes less than 15 minutes for most people to "order" this file from Google. 
 
 Click the button below to get started.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://github.com/spiousas/DigitalRhythmsProject/en/2_android)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://spiousas.github.io/DigitalRhythmsProject/en/2_android)

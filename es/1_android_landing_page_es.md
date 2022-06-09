@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/en/1_android_landing_page.html">Read in English</a> 🇺🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/1_android_landing_page.html">Read in English</a> 🇺🇸 </div>
 
 # Antes de empezar
 
@@ -16,4 +16,4 @@ El proceso para "ordenar" este archivo de los servidores de Google no debiera to
 
 Haga clic en el botón de abajo para empezar.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://github.com/spiousas/DigitalRhythmsProject/es/2_android_es)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://spiousas.github.io/DigitalRhythmsProject/es/2_android_es)

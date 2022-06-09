@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/es/2_android_es.html">Leer en español</a> 🇪🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/es/2_android_es.html">Leer en español</a> 🇪🇸 </div>
 
 # Step 1 of 2: Obtain the data
 
@@ -87,7 +87,7 @@ We highly recommend you to open the file for yourself, if you'd like. The file w
 
 Once you're comfortable with sharing the file with us anonymously, click the button below.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://github.com/spiousas/DigitalRhythmsProject/en/3_Questionnaires)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://spiousas.github.io/DigitalRhythmsProject/en/3_Questionnaires)
 
 <hr>
 
@@ -97,4 +97,4 @@ However, if you are still concerned, we offer you the choice of extracting the i
 
 After you've obtained the CSV file from the Colab notebook, continue by clicking the button below.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://github.com/spiousas/DigitalRhythmsProject/en/3_Questionnaires)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://spiousas.github.io/DigitalRhythmsProject/en/3_Questionnaires)

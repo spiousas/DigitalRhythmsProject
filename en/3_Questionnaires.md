@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://github.com/spiousas/DigitalRhythmsProject/es/3_Questionnaires_es.html"> Leer en español</a> 🇪🇸 </div>
+<div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/es/3_Questionnaires_es.html"> Leer en español</a> 🇪🇸 </div>
 
 # Step 2 of 2: Initial Questionnaire and File Upload
 
