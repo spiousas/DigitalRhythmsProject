@@ -12,15 +12,14 @@ El primer paso es hacer clic en el enlace aquí abajo para ir al servicio  Takeo
 
 **En caso de que tengas tu cuenta de Google configurada en inglés podés seguir este tutorial en inglés [aquí](https://spiousas.github.io/DigitalRhythmsProject/en/2_android).**
 
-Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en su teléfono Android.
-
-A continuación, haga clic en "deseleccionar todo" como se muestra a continuación, ya que solo queremos exportar los datos de actividad de las aplicaciones.
+Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en su teléfono Android.		
+A continuación, haga clic en "desmarcar todo" como se muestra a continuación, ya que solo queremos exportar los datos de actividad de las aplicaciones.
 
 <img src="./images/1.desmarcar.jpg" width = 600>
 
 Luego desplácese hacia abajo para encontrar el cartel "Mi actividad". Por lo general, se encuentra entre "Mapas" y "Mis mapas".
 
-Marque la casilla de verificación a la derecha y haga clic en el botón "Formatos múltiples" a la izquierda.
+Marque la casilla de verificación a la derecha y haga clic en el botón "Varios formatos" a la izquierda.
 
 <img src="./images/2.mi_actividad.jpg" width = 600>
 
@@ -28,11 +27,11 @@ En la ventana emergente, asegúrese de que los *Registros de actividad* estén c
 
 <img src="./images/3.opciones.jpg" width = 600>
 
-Ahora haga clic en el botón que dice "Todos los datos de actividad incluidos", y en la ventana emergente, primero haga clic en "Deseleccionar todo" y luego marque la casilla de verificación para Android como se muestra abajo. Haga clic en "Aceptar" para continuar.
+Ahora haga clic en el botón que dice "Se han incluido todos los datos de actividades", y en la ventana emergente, primero haga clic en "Desmarcar todo" y, luego, marque la casilla de verificación para Android como se muestra abajo. Haga clic en "Aceptar" para continuar.
 
 <img src="./images/4.datos_android.jpg" width = 600>
 
-Desplácese hacia abajo y haga clic en "Paso siguiente".
+Desplácese hacia abajo y haga clic en "Siguiente paso".
 
 <img src="./images/5.sig_paso.jpg" width = 600>
 
@@ -52,7 +51,7 @@ Este proceso no debiera tomar más de 5 minutos. **Sin embargo, puede recibir un
 
 Ahora puede sentarse a esperar el mensaje de Google, que puede tomar más o menos tiempo dependiendo de la cola de trabajo en los servidores de Takeout. Siéntase libre de pausar estas instrucciones aquí y continuar cuando sea conveniente para usted. Salga a caminar, coma algo, haga un poco de yoga, o llame a un amigo/a - pero no se quede simplemente mirando la pantalla hasta que su archivo esté disponible :)
 
-Alternativamente, si vuelve a cargar la página, encontrará un nuevo cartel en la parte superior con un botón para "Administrar exportaciones", tal como se muestra a continuación.
+Alternativamente, si vuelve a cargar la página, encontrará un nuevo cartel en la parte superior con un botón para "Gestionar exportaciones", tal como se muestra a continuación.
 
 <img src="./images/8.en_curso.jpg" width = 600>
 
