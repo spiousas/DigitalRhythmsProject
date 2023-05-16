@@ -31,11 +31,7 @@ Feel free to contact us regarding any concerns or suggestions.
 
 ### Study Coordinators:
 
-**Leandro Casiraghi**, LITERA Lab, Universidad de San Andrés,
-email: <a href="mailto:lcasiraghi@udesa.edu.ar">lcasira@uw.edu</a>
-
-**Ignacio Spiousas**, LITERA Lab, Universidad de San Andrés,
-email: <a href="mailto:ispiousas@udesa.edu.ar">lcasira@uw.edu</a>
+**Leandro Casiraghi** (<a href="mailto:lcasiraghi@udesa.edu.ar">lcasiraghi@udesa.edu.ar</a>) and **Ignacio Spiousas** (<a href="mailto:ispiousas@udesa.edu.ar">ispiousas@udesa.edu.ar</a>), LITERA Lab, Universidad de San Andrés.
 
 ### Lead Researcher:
 
