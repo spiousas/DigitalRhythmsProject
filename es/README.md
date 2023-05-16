@@ -1,5 +1,5 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject">Read in English</a> 🇺🇸 </div>
-<img src="./images/LITERA-MainVersion-Color.jpg" width = 600>
+<img src="./images/LITERA-Tagline-Color.jpg" width = 600>
 
 # El Proyecto 'Ritmos Digitales'
 
