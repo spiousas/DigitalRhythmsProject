@@ -29,10 +29,13 @@ The <a href="http://depts.washington.edu/delaiglesialab/wordpress/">de la Iglesi
 
 Feel free to contact us regarding any concerns or suggestions.
 
-### Study Coordinator:
+### Study Coordinators:
 
-**Leandro Casiraghi**, Department of Biology, University of Washington, (206) 225-4330,
-email: <a href="mailto:lcasira@uw.edu">lcasira@uw.edu</a>
+**Leandro Casiraghi**, LITERA Lab, Universidad de San Andrés,
+email: <a href="mailto:lcasiraghi@udesa.edu.ar">lcasira@uw.edu</a>
+
+**Ignacio Spiousas**, LITERA Lab, Universidad de San Andrés,
+email: <a href="mailto:ispiousas@udesa.edu.ar">lcasira@uw.edu</a>
 
 ### Lead Researcher:
 
