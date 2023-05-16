@@ -30,7 +30,6 @@ Por favor, siéntase libre de contactarnos con preguntas o sugerencias.
 ### Coordinadores:
 
 **Leandro Casiraghi**, Laboratorio Interdisciplinario del Tiempo y la Experiencia (LITERA), Universidad de San Andrés.
-
 Correo electrónico: <a href="mailto:lcasiraghi@udesa.edu.ar">lcasiraghi@udesa.edu.ar</a>
 
 **Ignacio Spiousas**, Laboratorio Interdisciplinario del Tiempo y la Experiencia (LITERA), Universidad de San Andrés.
