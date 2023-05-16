@@ -35,5 +35,4 @@ Feel free to contact us regarding any concerns or suggestions.
 
 ### Lead Researcher:
 
-**Horacio de la Iglesia**, Department of Biology, University of Washington, (206) 616-4697,
-email: <a href="mailto:horaciod@uw.edu">horaciod@uw.edu</a>
+**Horacio de la Iglesia** (<a href="mailto:horaciod@uw.edu">horaciod@uw.edu</a>), Department of Biology, University of Washington.
