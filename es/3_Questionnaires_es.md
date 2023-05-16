@@ -21,6 +21,6 @@ Como agradecimiento por su esfuerzo, lo invitamos a utilizar este tutorial *Cola
 
 Haga clic en el ícono de abajo para abrir el tutorial, ¡y diviértase!
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/DataVizTool.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_zZttZqTJRGSUUECiVvLod8T0nyoRlbu?usp=sharing)
 
 Nota: Este tutorial todavía está en desarrollo y su objetivo es servir de herramienta para estudiantes. Lo iremos actualizando periódicamente , así que si le interesa seguir usándolo, guarde el enlace a esta página para regresar cada vez que quiera volver a utilizarlo con sus datos (¡o los de alguien más!).
