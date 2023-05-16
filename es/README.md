@@ -1,6 +1,6 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject">Read in English</a> 🇺🇸 </div>
 <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
-<img src="./images/LITERA-Mainversion-Color.jpg" width = 60>
+<img src="./images/LITERA-MainVersion-Color.jpg" width = 60>
 
 # El Proyecto 'Ritmos Digitales'
 
