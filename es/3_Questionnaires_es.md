@@ -1,5 +1,7 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
 
+<div style="text-align: center"><img src="./images/LITERA-Tagline-Color.jpg" width = 1000> </div>
+
 # Paso 2 de 2: Cuestionario inicial y subida de datos
 
 Por favor, asegúrese de tener listo su archivo de datos, de haber revisado sus contenidos, y de estar cómodo con compartirlo con nosotros antes de continuar.
