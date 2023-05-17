@@ -1,6 +1,6 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject">Read in English</a> 🇺🇸 </div>
 
-<div style="text-align: center"><img src="./images/LITERA-Tagline-Color.jpg" width = 1000>
+<div style="text-align: center"><img src="./images/LITERA-Tagline-Color.jpg" width = 1000> </div>
 
 # El Proyecto 'Ritmos Digitales'
 
