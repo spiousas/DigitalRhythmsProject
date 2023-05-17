@@ -1,5 +1,7 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/2_android.html">Read in English</a> 🇺🇸 </div>
 
+<div style="text-align: center"><img src="./images/LITERA-Tagline-Color.jpg" width = 1000> </div>
+
 # Paso 1 de 2: Obteniendo los datos
 
 Este paso es bastante sencillo y debiera tomar poco tiempo, pero para que sea incluso más fácil, hemos documentado cada uno de los clics requeridos. Así que no se alarme, esto no será tan lento o complejo como la longitud de esta página parece sugerirlo.
