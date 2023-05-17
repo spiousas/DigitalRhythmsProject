@@ -81,7 +81,7 @@ Una vez que se sienta cómodo con compartir este archivo con nosotros, haga clic
 
 Sin embargo, si todavía tiene dudas, le ofrecemos la opción de generar un nuevo archivo más sencillo del cual se hayan removido todos los nombres de las aplicaciones antes de que pueda compartirlo con nosotros. Haga clic en el ícono de abajo que lo llevará a un tutorial en ***Google Colab*** con las instrucciones necesarias - pero antes de hacerlo, considere una vez más compartir el archivo original con nosotros, que nos permitirá realizar análisis incluso más interesantes. Recuerde que sus datos serán anonimizados y conservados en un servidor seguro. Si aún así prefiere remover toda la información de los nombres de sus aplicaciones, abra el link de abajo y siga las instrucciones antes de continuar.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/es/espa%C3%B1ol_Android_Timestamps_Notebook.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vCXBCo0-9F1abf7RSJqPmUhI-7HeZq6m?usp=sharing)
 
 Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, haga clic en el botón más abajo.
 
