@@ -4,7 +4,7 @@
 
 # El Proyecto 'Ritmos Digitales'
 
-El proyecto que estamos llevando adelante busca estudiar cómo nuestros ritmos diarios de actividad se ven reflejados en los dispositivos electrónicos que utilizamos. Creemos que las "huellas digitales" que vamos dejando atrás durante nuestras interacciones con la tecnología a diario pueden proveernos de información valiosa para estudiar nuestro hábitos diarios y sus cambios durante situaciones particulares. El objetivo del análisis es ver hasta qué punto esta huella digital es una ventana fiable a través de la cual podemos inferir información sobre ritmos y ciclos.
+El proyecto que estamos llevando adelante busca estudiar cómo nuestros ritmos diarios de actividad se ven reflejados en los dispositivos electrónicos que utilizamos. Creemos que las "huellas digitales" que vamos dejando atrás durante nuestras interacciones con la tecnología a diario pueden proveernos de información valiosa para estudiar nuestro hábitos diarios y sus cambios durante situaciones particulares.
 
 **Por favor, considere brindarnos un poco de su tiempo para colaborar con nuestro proyecto. Siga las instrucciones a continuación para compartir sus datos para nuestra investigación.**
 
