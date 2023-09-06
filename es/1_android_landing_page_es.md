@@ -7,6 +7,8 @@
 ### Consentimiento para participar
 Para poder utilizar sus datos en nuestra investigación, necesitamos primero que complete un documento de 'consentimiento informado'. Le pedimos que primero lea el texto con atención; si tiene alguna duda o pregunta, por favor pónganse en contacto con nostros a través de los medios indicados. Si decide participar de nuestro estudio, complete el formulario con su información y continúe al paso siguiente.
 
+(En caso de ya haber completado el formulario de consentimiento en alguna etapa anterior de la investigación no hace falta que lo haga nuevamente).
+
 <a href="https://redcap.iths.org/surveys/?s=W4R74DYFXNYEARJT" target="_blank"><img src="./images/consentform.png" height="40" width="40"></a>
 
 
