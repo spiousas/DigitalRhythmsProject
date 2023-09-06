@@ -1,6 +1,6 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/1_android_landing_page.html">Read in English</a> 🇺🇸 </div>
 
-<div style="text-align: center"><img src="./images/logo_litera_SA.png" width = 1000> </div>
+<div style="text-align: center"><img src="./images/logo_litera_SA2.png" width = 1000> </div>
 
 # Antes de empezar
 
