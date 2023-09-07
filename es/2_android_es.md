@@ -1,6 +1,6 @@
 <div style="text-align: right"><a href="https://spiousas.github.io/DigitalRhythmsProject/en/2_android.html">Read in English</a> 🇺🇸 </div>
 
-<div style="text-align: center"><img src="./images/LITERA-Tagline-Color.jpg" width = 1000> </div>
+<div style="text-align: center"><img src="./images/logo_litera_SA2.png" width = 1000> </div>
 
 # Paso 1 de 2: Obteniendo los datos
 
